@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @davidhriczu
-- 👀 I’m interested in blockchain technology.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on blockchain projects.
+- 🌱 I’m currently learning Java.
 - 📫 You can reach me via email d.hriczu@gmail.com
